@@ -17,7 +17,7 @@ public class Area {
     /**
      * Calculates the area of a circle.
      * @param radius The radius of the circle
-     * @return The area
+     * @return The arjea
      */
     public static double getCircleArea(double radius) {
         // TODO: replace me with the correct formula
